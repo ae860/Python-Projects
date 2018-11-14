@@ -42,5 +42,5 @@ print('The high score was (0...2f)\nThe low score was (1..2f)'.format(hightestsc
 print('The print a list of things'
         'Apple\n'
         'Bannana\n'
-        'Orange\n')
+        'Orange\n' )
 
